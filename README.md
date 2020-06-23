@@ -117,7 +117,7 @@ SO THAT I can use it as a starting point for a new project
  ![api-routeChange](api-routes.PNG)
 
 * ### Changed redirect to go back to login page after logging out.
- ![middlewareChange](middlepic.PNG)
+ ![middlewareChange](middlePic.PNG)
 
 * ### Added database to store ids 'emails' and paswords.
 ![dbAdded](DB.PNG)
